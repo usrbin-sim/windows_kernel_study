@@ -1,3 +1,7 @@
+/*
+Windows 7 x86
+Version 6.1.7601
+*/
 #include <stdio.h>
 #include <Windows.h>
 #include <sddl.h>
